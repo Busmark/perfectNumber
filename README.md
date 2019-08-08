@@ -1,1 +1,1 @@
-# perfectnumber
+Code Challenge: Develop a small java program that checks if a number is perfect (as described here: http://en.wikipedia.org/wiki/Perfect_number ) The program should contain two REST APIs to serve the following operations: 1.       Check if a given number is perfect 2.       Find all perfect numbers between a range (start-end) Do not hardcode the known perfect numbers, instead write an algorithm that computes the perfect numbers. The program should be written in Java8.
